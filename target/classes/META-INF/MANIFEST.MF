@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: dc.demo.E102SimpleTradeTest
+Class-Path: gson-2.8.6.jar bcprov-jdk15on-1.61.jar bcpkix-jdk15on-1.61.jar commons-codec-1.13.jar commons-io-1.3.2.jar commons-lang3-3.9.jar commons-logging-1.2.jar deib-sdk-1.3.jar fastjson-1.2.70.jar httpclient-4.5.12.jar httpcore-4.4.13.jar jna-4.5.2.jar log4j-1.2.17.jar security-crypto-1.0.0.jar security-sdk-2.1.2-SNAPSHOT.jar slf4j-api-1.7.30.jar
